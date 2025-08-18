@@ -1,8 +1,6 @@
-import TodoApp from './Todo(useReducer)'
-
 function App() {
     return (
-        <TodoApp />
+        <h1>cc</h1>
     )
 }
 
